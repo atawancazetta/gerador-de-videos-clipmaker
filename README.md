@@ -58,4 +58,4 @@ Para rodar este projeto localmente, siga os passos abaixo:
 Este projeto foi construído para que a chave da API do Gemini seja inserida via interface pelo usuário e não fique exposta no código-fonte. **Nunca suba suas chaves privadas para o GitHub.**
 
 ---
-Desenvolvido com 💜 por [Atawan] durante a NLW da Rocketseat.
+Desenvolvido com 💜 por Atawan Cazetta durante a NLW da Rocketseat.
