@@ -8,8 +8,6 @@
 
 O **ClipMaker** é uma aplicação web experimental que utiliza Inteligência Artificial para identificar automaticamente os momentos mais engajadores (virais) em vídeos, realizando o corte de forma inteligente.
 
-https://atawancazetta.github.io/Projeto-ClipMaker-NLW/
-
 Este projeto foi desenvolvido durante a trilha de Inteligência Artificial da **NLW (Next Level Week)** da Rocketseat.
 
 ## 🚀 Funcionalidades
